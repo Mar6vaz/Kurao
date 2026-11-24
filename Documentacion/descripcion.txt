@@ -1,0 +1,25 @@
+
+Nombre del proyecto:
+Kurao – Sistema de gestión hospitalario.
+
+Problema:
+En algunas clínicas, la administración de pacientes,
+médicos y citas puede ser complicada cuando la
+información no está organizada en un solo lugar.
+También pueden presentarse errores al programar
+citas en horarios que ya están ocupados.
+
+Objetivo:
+Desarrollar una aplicación web que permita administrar
+pacientes, médicos, horarios y citas de una clínica,
+así como registrar y consultar historias clínicas
+y notas médicas.
+
+Descripción:
+Kurao es un sistema de gestión hospitalaria que busca
+facilitar la organización de una clínica. Permitirá
+registrar pacientes y médicos, administrar horarios,
+programar citas y consultar información médica.
+También contará con diferentes permisos según el
+tipo de usuario y validación de disponibilidad
+para evitar cruces de citas.
